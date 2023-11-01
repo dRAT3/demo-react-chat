@@ -3,4 +3,5 @@ export enum CustomMessage {
   VIDEO = 'custom_video',
   STREAMED_RESPONSE = 'custom_streamed_response',
   PLUGIN = 'custom_plugin',
+  CALENDLY = 'custom_calendly'
 }
